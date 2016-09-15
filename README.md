@@ -1,6 +1,6 @@
 # IDLE-Python-Themes
 
-Go to the .idlerc folder(on my pc it's location is: 'C:\Users\(MY_PC_NAME)\.idlerc', <br/>
+Go to the .idlerc folder(on my pc it's location is: 'C:\Users\ MY_PC_NAME \ .idlerc', <br/>
 and replace 'config-highlight.cfg' file with the file given here, and enjoy new custom themes.<br/>
 <p>
 </br>
